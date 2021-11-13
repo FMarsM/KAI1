@@ -1,0 +1,13 @@
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\bin\Debug\netcoreapp3.1\ProjectKAI.exe
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\bin\Debug\netcoreapp3.1\ProjectKAI.deps.json
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\bin\Debug\netcoreapp3.1\ProjectKAI.runtimeconfig.json
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\bin\Debug\netcoreapp3.1\ProjectKAI.runtimeconfig.dev.json
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\bin\Debug\netcoreapp3.1\ProjectKAI.dll
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\bin\Debug\netcoreapp3.1\ProjectKAI.pdb
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\obj\Debug\netcoreapp3.1\ProjectKAI.csprojAssemblyReference.cache
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\obj\Debug\netcoreapp3.1\ProjectKAI.AssemblyInfoInputs.cache
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\obj\Debug\netcoreapp3.1\ProjectKAI.AssemblyInfo.cs
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\obj\Debug\netcoreapp3.1\ProjectKAI.csproj.CoreCompileInputs.cache
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\obj\Debug\netcoreapp3.1\ProjectKAI.dll
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\obj\Debug\netcoreapp3.1\ProjectKAI.pdb
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\ProjectKAI\ProjectKAI\obj\Debug\netcoreapp3.1\ProjectKAI.genruntimeconfig.cache
